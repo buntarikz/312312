@@ -31,7 +31,7 @@ $$E=mc^2$$
 [A hyperlink (to rmarkdown.rstudio.com)](http://rmarkdown.rstudio.com/)
 
 A horizontal rule (put one below)
-
+------------------------------------------------------
 
 An unordered list:
 - Item 1
@@ -44,3 +44,9 @@ An ordered list:
 2. Item 2
 - sub-item 1
 - sub-item 2
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
